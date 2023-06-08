@@ -23,4 +23,4 @@ Seja Bem-Vindo!
 </div>
  <br/>
 
-Sou apaixonado por tecnologia, gosto de fazer lives e programar coisas legais, estou aos poucos tentando popular meu repositório, logo logo vem coisas boas e engraçadas por ai! 
+Sou apaixonado por tecnologia!
