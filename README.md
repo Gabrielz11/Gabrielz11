@@ -19,5 +19,3 @@ Seja Bem-Vindo!
         <img align="center" alt="HTML5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
  <br/>
-
-Sou apaixonado por tecnologia!
