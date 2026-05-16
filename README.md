@@ -84,7 +84,6 @@ Currently focused on:
 
 ## 🌎 Career Goals
 
-- Backend / Software Engineer roles in the US
 - HealthTech and high-impact systems
 - Scalable platforms and cloud-native applications
 
